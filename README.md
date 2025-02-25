@@ -29,6 +29,8 @@ G10 Gyro Scroller is a lightweight Windows utility designed to enable smooth scr
 
 2. **Execution**  
    - Run the executable to start the application. It will automatically install the necessary hooks and display a tray icon for easy access.
+   - You may now move your mouse up/down to scroll through pages while holding the "File Explorer" (Win+E) button.
+   - You may change the sensitivity value in `config.cfg` to allow faster / slower scrolling. A restart of the program is required for it to take effect. 
 
 3. **Auto-Start Setup**  
    - For convenience, you can add the executable and the configuration file to your system’s startup folder so that the application launches automatically when Windows starts.
