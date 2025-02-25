@@ -2,7 +2,9 @@
 
 G10 Gyro Scroller is a lightweight Windows utility designed to enable smooth scrolling using the [PepperJobs W10 Air Remote](https://www.pepper-jobs.com/products/w10-gyro-smart-remote). With this tool, you can scroll by moving the mouse vertically while holding down the File Explorer button.
 
-https://github.com/user-attachments/assets/0b62df05-45c3-4495-a73e-33723d640064
+https://github.com/user-attachments/assets/2c36bbe8-e384-473d-8760-9695709471ae
+
+
 
 
 
@@ -29,10 +31,6 @@ https://github.com/user-attachments/assets/0b62df05-45c3-4495-a73e-33723d640064
    - Compile the project to produce the executable (.exe) file.
    - Ensure the configuration file (`config.cfg`) is located in the same folder as the executable. The file should contain a single line in the format:  
      `sensitivity=<value>`
-
-Uploading 20250225_160824.mp4…
-
-
    - Alternatively, if you prefer not to compile the program yourself, you can download the precompiled .zip file from the [release page](https://github.com/CheukHoYun/W10GyroScroller/releases/tag/Release), which includes both the executable and the configuration file.
 
 2. **Execution**  
