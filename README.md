@@ -1,6 +1,6 @@
-# G10 Gyro Scroller
+# W10 Gyro Scroller
 
-G10 Gyro Scroller is a lightweight Windows utility designed to enable smooth scrolling using the [Pepper Jobs W10 GYRO Smart Remote](https://www.pepper-jobs.com/products/w10-gyro-smart-remote). With this tool, you can scroll by moving the mouse vertically while holding down the File Explorer button.
+W10 Gyro Scroller is a lightweight Windows utility designed to enable smooth scrolling using the [Pepper Jobs W10 GYRO Smart Remote](https://www.pepper-jobs.com/products/w10-gyro-smart-remote). With this tool, you can scroll by moving the mouse vertically while holding down the File Explorer button.
 
 https://github.com/user-attachments/assets/2c36bbe8-e384-473d-8760-9695709471ae
 
