@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/2c36bbe8-e384-473d-8760-9695709471ae
 
 ## Disclaimer
 
-This software was developed solely for personal use with the Pepper Jobs W10 Air Remote. I am not affiliated with Pepper Jobs and was not involved in the development of the remote. The software is provided free of charge and is intended for personal use only. You may use, modify, and distribute the program for non-commercial purposes.
+This software was developed solely for personal use with the Pepper Jobs W10 Smart Remote, and can technically be used with any other air mouse / remote. I am not affiliated with Pepper Jobs and was not involved in the development of the remote. The software is provided free of charge and is intended for personal use only. You may use, modify, and distribute the program for non-commercial purposes.
 
 ---
 
